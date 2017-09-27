@@ -1,0 +1,97 @@
+html {
+  background-color: white
+}
+
+body {
+  font: 14px "HelveticaNeueLight", Helvetica, Arial, sans-serif;
+  line-height: 1.4;
+  color: #444444;
+  min-width: 960px;
+}
+
+
+h1 {
+  background-color: #FF9D00;
+  font-size: 60px;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 50px;
+  margin: 0;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+}
+
+p.project_name {
+  float: left;
+  font-weight: bold;
+  font-size: 16px;
+  color: #FF9D00;
+  text-align: top;
+
+}
+
+p.project_lang {
+  float: right;
+  font-weight: bold;
+  font-size: 16q`px;
+  color: #FFD394;
+  text-align: right, top;
+}
+
+p.project_desc {
+   clear: left;
+   text-align: left;
+}
+
+ p.center {
+    text-align: center;
+    }
+
+p.divider {
+  border-top: 1px solid #FF9D00;
+}
+
+a:link, a:visited {
+  color: #FF9D00;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.floating-box {
+    display: inline-block;
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    border: 1px solid #FF9D00;
+    background-color: white;
+    padding: 10px 10px 10px 10px; 
+    vertical-align: top; 
+
+} 
+
+.right {
+    float: right;
+    padding: 3%;
+}
+
+.logo {
+    margin: 1% 3%;
+}
+
+
+
+</style>
