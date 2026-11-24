@@ -1,5 +1,5 @@
 html {
-  background-color: white
+  background-color: black
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 
 
 h1 {
-  background-color: #232F3E;
+  background-color: #000;
   font-size: 60px;
   color: #FFFFFF;
   text-align: center;
@@ -25,30 +25,6 @@ h2 {
     color: #000;
     text-align: center;
     padding: 10px;
-}
-
-p.project_name {
-  float: left;
-  font-weight: bold;
-  font-size: 16px;
-  color: #232F3E;
-  text-align: top;
-
-}
-
-p.project_lang {
-  float: right;
-  font-weight: bold;
-  font-size: 16px;
-  color: #FF9D00;
-  text-align: right, top;
-}
-
-p.project_desc {
-   clear: left;
-   text-align: left;
-  font-size: 16px;
-  color: #000000;
 }
 
 p.center {
@@ -91,8 +67,6 @@ a:hover {
     padding: 3%;
 }
 
-.logo {
-    margin: 1% 3%;
 }
 
 </style>
